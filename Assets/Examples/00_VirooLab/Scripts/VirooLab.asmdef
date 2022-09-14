@@ -1,0 +1,20 @@
+{
+    "name": "VirooLab",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:30ea38a2c9d551a46a0b7786493bd1c7",
+        "GUID:55208cffab3211f4bb4f32c8197ddb3b",
+        "GUID:0d9854936ee071e4e8be3ceab473c7b6",
+        "GUID:6cbedd22dedbb8b43bd4eeebcecbd8c5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

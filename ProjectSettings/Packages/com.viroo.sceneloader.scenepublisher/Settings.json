@@ -1,0 +1,16 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "Viroo.SceneLoader.ScenePublisher.Unity.Editor.AssetBundleBuilderItemData[], Viroo.SceneLoader.ScenePublisher.Editor, Version=2.1.264.0, Culture=neutral, PublicKeyToken=null",
+                "key": "items",
+                "value": "{\"m_Value\":[{\"identifier\":\"VirooLab\",\"title\":\"VirooLab\",\"thumbnail\":{\"instanceID\":0},\"sceneAsset\":{\"fileID\":102900000,\"guid\":\"69ceb5162dd086d498815279fadbb0aa\",\"type\":3},\"outputPath\":\"Publish/VirooLab\",\"assemblyDefinitions\":[{\"fileID\":5897886265953266890,\"guid\":\"d8804b16bb76095458ded3db722c999d\",\"type\":3}],\"includedFolders\":[{\"fileID\":102900000,\"guid\":\"d3c0ea5ea8ed2eb4794a84651a1fd1f2\",\"type\":3}],\"assemblyDefinition\":{\"fileID\":5897886265953266890,\"guid\":\"d8804b16bb76095458ded3db722c999d\",\"type\":3}},{\"identifier\":\"VirooLobby\",\"title\":\"VirooLobby\",\"thumbnail\":{\"instanceID\":0},\"sceneAsset\":{\"fileID\":102900000,\"guid\":\"36b9393d600f5a84a95605123ae0e881\",\"type\":3},\"outputPath\":\"Publish/VirooLobby\",\"assemblyDefinitions\":[],\"includedFolders\":[],\"assemblyDefinition\":{\"instanceID\":0}},{\"identifier\":\"ArenaTesting\",\"title\":\"ArenaTesting\",\"thumbnail\":{\"instanceID\":0},\"sceneAsset\":{\"fileID\":102900000,\"guid\":\"cc34ad9ec07b5444caa960f96f58e21c\",\"type\":3},\"outputPath\":\"Publish/ArenaTesting\",\"assemblyDefinitions\":[],\"includedFolders\":[],\"assemblyDefinition\":{\"instanceID\":0}},{\"identifier\":\"MultipleAssemblies\",\"title\":\"Multiple_Assemblies\",\"thumbnail\":{\"instanceID\":0},\"sceneAsset\":{\"fileID\":102900000,\"guid\":\"d80c43ca6cfe06c458ed33645e465da1\",\"type\":3},\"outputPath\":\"Publish/Multiple_Assemblies\",\"assemblyDefinitions\":[{\"fileID\":5897886265953266890,\"guid\":\"d8804b16bb76095458ded3db722c999d\",\"type\":3},{\"fileID\":5897886265953266890,\"guid\":\"dd78162d570a215468202d409c7df99e\",\"type\":3}],\"includedFolders\":[],\"assemblyDefinition\":{\"instanceID\":0}}]}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "packagesValidationRegex",
+                "value": "{\"m_Value\":\"^(DOTween|LeapMotion|NMerso|UniTask|Unity|Viroo\\\\.|Virtualware|Vivox).*|^Viroo$\"}"
+            }
+        ]
+    }
+}
